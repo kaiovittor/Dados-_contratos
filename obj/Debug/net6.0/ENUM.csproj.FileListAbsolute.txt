@@ -1,0 +1,15 @@
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ENUM.csproj.AssemblyReference.cache
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ENUM.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ENUM.AssemblyInfoInputs.cache
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ENUM.AssemblyInfo.cs
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ENUM.csproj.CoreCompileInputs.cache
+/home/kaio/Documentos/ExercicioC#/ENUM/bin/Debug/net6.0/ENUM
+/home/kaio/Documentos/ExercicioC#/ENUM/bin/Debug/net6.0/ENUM.deps.json
+/home/kaio/Documentos/ExercicioC#/ENUM/bin/Debug/net6.0/ENUM.runtimeconfig.json
+/home/kaio/Documentos/ExercicioC#/ENUM/bin/Debug/net6.0/ENUM.dll
+/home/kaio/Documentos/ExercicioC#/ENUM/bin/Debug/net6.0/ref/ENUM.dll
+/home/kaio/Documentos/ExercicioC#/ENUM/bin/Debug/net6.0/ENUM.pdb
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ENUM.dll
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ref/ENUM.dll
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ENUM.pdb
+/home/kaio/Documentos/ExercicioC#/ENUM/obj/Debug/net6.0/ENUM.genruntimeconfig.cache
